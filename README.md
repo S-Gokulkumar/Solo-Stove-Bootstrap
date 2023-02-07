@@ -1,1 +1,1 @@
-# Solo-Stove-Responsive
+# Solo-Stove-Bootstrap
